@@ -1,10 +1,6 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Date;
-/**
- *
- * @author Manal Alhihi
- */
 
 public class Order {
     int orderId;
